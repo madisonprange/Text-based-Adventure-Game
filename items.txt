@@ -1,0 +1,25 @@
+OVERWORLD_SHOVEL
+You have found a Shovel.
+OVERWORLD_HOUSE
+You have found a Blanket.
+HOLE_POTION
+You have found a Potion with a label DRINK ME. You also find miniature Cake with a label EAT ME. However, you are not the right size to eat this cake as your current form! These can only be consumed in this location.
+HOLE_RABBIT
+You have found a Fan. Maybe this can help you leave the rabbit hole...
+RABBIT_KITCHEN
+You have found Water.
+FOREST_WATER
+You have found Water.
+RABBIT_ROOM
+You have found a Plush. A Plush is a special item! If you collect both special items and win the game, you are declared a Wonderful Winner!
+CATERPILLAR_START
+You have found Magic Mushrooms.
+GARDEN_CUP
+You have found a cup. A cup is a special item! If you collect both special items and win the game, you are declared a Wonderful Winner!
+GARDEN_START
+You have found a Key. 
+CASTLE_RIGHT
+You have found a Crown.
+CASTLE_WRONG
+You have found a Tiara.
+

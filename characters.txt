@@ -1,0 +1,22 @@
+FIELD
+You see a White Rabbit wearing a waistcoat, carrying a pocket watch, and seemingly in a great hurry. He is running off to the south, about to jump into a rabbit hole.
+Rabbit: "I am going to be late!"
+extra space
+HOLE_RABBIT
+You find the rabbit, checking his watch.
+Rabbit: "I am going to be late!"
+Rabbit: "Oh, but what a large creature you are!". He drops a fan and scurries away, leaving the miniature south door unlocked on the way out.
+CATERPILLAR_START
+You find a colourful Caterpillar, sitting on a mushroom. He is smoking a hookah lazily.
+Caterpillar: You are very tiny for a human! Look around, these are all magic mushrooms. Take and use them to grow larger. You must grow larger to go any further.
+Caterpillar: And before I forget...don't you dare take more than one magic mushroom, or bad things will happen, dear.
+GARDEN_START
+You find a funny looking person sitting at one end of the table. He wears a green, oversized top hat, and seems to be quite elderly. He sips his tea and slowly glances up at you. The Hare, another funny looking rabbit in Wonderland. He has large, floppy ears, and his eyes can't seem to focus. He is loud, and quite the opposite of a gentleman.
+Hatter: You don't seem as you belong here. It is rather frustrating seeing random people interrupt out tea party. Isn't that right, Hare? Hare: Oh yes indeed! Well guess what, strange person! You can leave Wonderland by touching the Queen's crown. Oh, but be so careful, as there are traps.
+Hatter: Well, we will help you. We have a key here that unlocks the tree door to the south.
+MATCH_START
+You easily spot her. the Queen of Hearts is easily recognized by her iconic red, black, and gold color scheme—as well as her motif of hearts and playing cards.
+Queen: Get to your places! Shouted the Queen in a voice of thunder, and people began running about in all directions, tumbling up against each other; however, they got settled down in a minute or two, and the game began.
+You thought you had never seen such a curious croquet-ground in her life; it was all ridges and furrows; the balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.
+
+

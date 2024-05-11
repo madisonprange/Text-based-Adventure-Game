@@ -1,0 +1,18 @@
+pick
+use
+go
+n
+w
+s
+e
+go n
+go w
+go e
+go s
+display
+drop
+north
+east
+west
+south
+quit

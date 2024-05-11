@@ -1,0 +1,46 @@
+FIELD
+You find yourself standing in a verdant open meadow. You shiver as the cool breeze sways the tall grass, and the leaves on the trees.
+OVERWORLD_HOUSE
+You find a large house, sitting on the edge of a valley.
+OVERWORLD_SHOVEL
+You find a garden, filled with gardening tools.
+OVERWORLD_NOTHING
+You walk towards the east part of the valley, but nothing catches your eye.
+HOLE_START
+You are now in the rabbit hole. You cannot return back to the field. You notice the decorations and the furniture of this long hallway in the hole. You see many mini doors, fit for a rabbit, but not you.
+HOLE_POTION
+You find a table, with a few items on it. You move towards it to get a closer look.
+HOLE_WEST
+You find a beautiful garden, filled with a variety of crops and greens. Maybe now would be a good time for a nap...
+HOLE_RABBIT
+You go to the east of the rabbit hole.
+WONDERLAND_START
+You enter Wonderland. You look around, amazed by the bright colors, the tall trees, and the surrounding nature. You feel the warm weather on your skin, and take in the sunlight. What a marvelous place!
+FOREST_START
+You have entered the forest. The forest has many trees and plants. You hear birds chirping in the distance.
+FOREST_WATER
+You find a picnic bench, filled with shrubs and flowers.
+RABBIT_START
+You find the rabbit's hose. You open the small white doors to the rabbit house. As you take a step in, you are immediately surprised. This is a big house for a rabbit!
+RABBIT_ROOM
+You enter the rabbit's living room.
+RABBIT_KITCHEN
+You enter the rabbit's kitchen.
+CATERPILLAR_START
+You walk into a field of mushrooms! As you are still a tiny size, these mushrooms seem to be like large trees.
+CAT_START
+You walk into a house, made of bricks, that has a large balcony. It is a rather dull house.
+SAFEROOM
+You enter the Safe Room. To store an object here, you must type drop "item" and it will be stored.
+GARDEN_START
+You see a long table, filled with fancy teacups and decorations on top a shiny tablecloth.
+GARDEN_CUP
+You walk into the storage area of this tea party, where they are keeping the decorations.
+MATCH_START
+You open the door and are immediately blinded by the strong light and loud noise. You are now at the queens croquet match. As you see everyone is distracted, this might be the perfect time to sneak into the castle
+CASTLE_START
+You walk into the castle, seeming to somehow sneak past the guards.
+CASTLE_WRONG
+You find a glass case. You sneak past the alarm system to get a better look.
+CASTLE_RIGHT
+You find a glass case containing an item. You sneak past the alarm system to get a better look.
